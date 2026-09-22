@@ -1,0 +1,205 @@
+Order_ID,Order_Date,Customer_Name,Region,Customer_Type,Category,Product,Quantity,Unit_Price,Sales,Discount,Profit
+ORD-2023-1001,2023-11-25,Sneha Reddy,North,Small Business,Furniture,Executive Desk,3,450.0,1012.5,0.25,202.5
+ORD-2023-1002,2023-02-23,Arjun Pillai,North,Home Office,Electronics,Smartphone,2,699.99,1329.98,0.05,489.99
+ORD-2023-1003,2023-05-01,Meera Sen,Central,Consumer,Furniture,Desk Lamp,4,45.0,153.0,0.15,45.0
+ORD-2023-1004,2023-10-30,Aditya Joshi,North,Corporate,Technology,USB-C Docking Station,5,79.5,377.62,0.05,139.12
+ORD-2023-1005,2023-04-22,Manish Gupta,North,Consumer,Technology,Wireless Mouse,6,29.99,161.95,0.1,53.99
+ORD-2023-1006,2023-11-07,Aditya Joshi,North,Home Office,Electronics,Smartwatch,2,249.99,399.98,0.2,99.99
+ORD-2023-1007,2023-06-01,Nikhil Bhat,East,Corporate,Electronics,Smartphone,11,699.99,7314.9,0.05,2694.97
+ORD-2023-1008,2023-05-30,Rahul Verma,South,Consumer,Technology,USB-C Docking Station,8,79.5,477.0,0.25,95.4
+ORD-2023-1009,2023-07-07,Ananya Iyer,East,Small Business,Furniture,Bookshelf,12,120.5,1084.5,0.25,216.9
+ORD-2023-1010,2023-11-29,Rahul Verma,Central,Corporate,Furniture,Executive Desk,8,450.0,3060.0,0.15,900.0
+ORD-2023-1011,2023-05-20,Arjun Pillai,South,Small Business,Electronics,Laptop,1,1199.5,1079.55,0.1,359.85
+ORD-2023-1012,2023-07-26,,North,Corporate,Office Supplies,Paper Ream,11,9.99,93.41,0.15,27.48
+ORD-2023-1013,2023-07-23,Karan Malhotra,South,Small Business,Furniture,Executive Desk,12,450.0,4320.0,0.2,1080.0
+ORD-2023-1014,2023-10-04,Aditya Joshi,Central,Home Office,Technology,USB-C Docking Station,4,79.5,302.1,0.05,111.3
+ORD-2023-1015,2023-09-19,Ishaan Saxena,North,Consumer,Electronics,Laptop,11,1199.5,12534.77,0.05,4618.07
+ORD-2023-1016,2023-12-16,Neha Kulkarni,Central,Consumer,Technology,External SSD 1TB,10,109.99,934.91,0.15,274.97
+ORD-2023-1017,2023-09-29,Aditya Joshi,Central,Consumer,Electronics,Headphones,11,149.0,1475.1,0.1,491.7
+ORD-2023-1018,2023-02-28,Pooja Rao,,Corporate,Technology,Wireless Mouse,12,29.99,269.91,0.25,53.98
+ORD-2023-1019,2023-05-16,Meera Sen,South,Consumer,Office Supplies,Paper Ream,3,9.99,26.97,0.1,8.99
+ORD-2023-1020,2023-03-25,Arjun Pillai,Central,Consumer,Office Supplies,Stapler Heavy-Duty,1,24.5,24.5,0.0,9.8
+ORD-2023-1021,2023-07-06,Pooja Rao,South,Consumer,Furniture,Desk Chair,2,189.0,283.5,0.25,56.7
+ORD-2023-1022,2023-09-07,Rahul Verma,Central,Corporate,Furniture,Desk Lamp,9,45.0,384.75,0.05,141.75
+ORD-2023-1023,2023-05-17,Meera Sen,Central,Home Office,Furniture,Executive Desk,12,450.0,4860.0,0.1,1620.0
+ORD-2023-1024,2023-07-25,Divya Deshmukh,West,Home Office,Electronics,Laptop,4,1199.5,4798.0,0.0,1919.2
+ORD-2023-1025,2023-06-24,Aarav Sharma,Central,Corporate,Furniture,Desk Chair,47,189.0,6662.25,0.25,1332.45
+ORD-2023-1026,2023-11-21,Priya Patel,South,Consumer,Electronics,Headphones,2,149.0,238.4,0.2,59.6
+ORD-2023-1027,2023-05-03,Aditya Joshi,West,Corporate,Furniture,Desk Lamp,4,45.0,153.0,0.15,45.0
+ORD-2023-1028,2023-07-29,Rohan Mehta,North,Consumer,Technology,USB-C Docking Station,7,79.5,473.02,0.15,139.12
+ORD-2023-1029,2023-08-29,Priya Patel,North,Consumer,Technology,USB-C Docking Station,2,79.5,151.05,0.05,55.65
+ORD-2023-1030,2023-04-10,Rohan Mehta,Central,Home Office,Furniture,Desk Lamp,3,45.0,121.5,0.1,40.5
+ORD-2023-1031,2023-08-26,Kavya Nair,North,Home Office,Electronics,Smartphone,11,699.99,6159.91,0.2,1539.98
+ORD-2023-1032,2023-01-09,Rahul Verma,South,Corporate,Technology,External SSD 1TB,8,109.99,835.92,0.05,307.97
+ORD-2023-1033,2023-07-26,Priya Patel,South,Home Office,Electronics,Smartwatch,5,249.99,1062.46,,312.49
+ORD-2023-1034,2023-05-28,Neha Kulkarni,Central,Home Office,Furniture,Executive Desk,5,450.0,2137.5,0.05,787.5
+ORD-2023-1035,2023-01-31,Tanvi Choudhury,Central,Consumer,Office Supplies,Binder (Pack of 5),1,18.5,14.8,0.2,3.7
+ORD-2023-1036,2023-09-03,Meera Sen,Central,Corporate,Electronics,Smartphone,3,699.99,2099.97,0.0,839.99
+ORD-2023-1037,2023-11-02,Rahul Verma,South,Home Office,Electronics,Laptop,10,1199.5,9596.0,0.2,2399.0
+ORD-2023-1038,2023-01-22,Nikhil Bhat,North,Home Office,Office Supplies,Gel Pen Set,4,12.0,36.0,0.25,7.2
+ORD-2023-1039,2023-06-11,Kavya Nair,East,Home Office,Furniture,Bookshelf,8,120.5,867.6,0.1,289.2
+ORD-2023-1040,2023-02-08,Aarav Sharma,West,Consumer,Electronics,Laptop,9,1199.5,9715.95,0.1,3238.65
+ORD-2023-1041,2023-03-10,Divya Deshmukh,North,Corporate,Office Supplies,Gel Pen Set,3,12.0,30.6,0.15,9.0
+ORD-2023-1042,2023-10-07,Pooja Rao,Central,Consumer,Office Supplies,Binder (Pack of 5),3,18.5,49.95,0.1,16.65
+ORD-2023-1043,2023-03-02,Sneha Reddy,Central,Corporate,Office Supplies,Gel Pen Set,10,12.0,114.0,0.05,42.0
+ORD-2023-1044,2023-06-26,Rohan Mehta,East,Home Office,Office Supplies,Binder (Pack of 5),2,18.5,27.75,0.25,5.55
+ORD-2023-1045,2023-08-06,,North,Consumer,Office Supplies,Paper Ream,11,9.99,98.9,0.1,32.97
+ORD-2023-1046,2023-03-25,Karan Malhotra,Central,Home Office,Electronics,Smartphone,2,699.99,1049.99,0.25,210.0
+ORD-2023-1047,2023-03-19,Arjun Pillai,North,Small Business,Furniture,Desk Lamp,3,45.0,135.0,0.0,54.0
+ORD-2023-1048,2023-06-08,Divya Deshmukh,North,Small Business,Furniture,Executive Desk,11,450.0,4950.0,0.0,1980.0
+ORD-2023-1049,2023-07-02,Arjun Pillai,West,Corporate,Furniture,Executive Desk,3,450.0,1147.5,0.15,337.5
+ORD-2023-1050,2023-01-14,Ananya Iyer,East,Home Office,Furniture,Bookshelf,3,120.5,14500.0,0.25,14283.1
+ORD-2023-1051,2023-02-26,Siddharth Das,North,Home Office,Furniture,Executive Desk,8,450.0,3240.0,0.1,1080.0
+ORD-2023-1052,2023-06-07,Kavya Nair,South,Consumer,Furniture,Desk Lamp,6,45.0,243.0,0.1,81.0
+ORD-2023-1053,2023-02-06,Aditya Joshi,East,Home Office,Office Supplies,Binder (Pack of 5),2,18.5,33.3,0.1,11.1
+ORD-2023-1054,2023-04-03,Tanvi Choudhury,East,Consumer,Electronics,Smartwatch,6,249.99,1124.95,0.25,224.99
+ORD-2023-1055,2023-06-11,Neha Kulkarni,Central,Consumer,Technology,Mechanical Keyboard,5,89.99,449.95,0.0,179.98
+ORD-2023-1056,2023-08-13,Aarav Sharma,Central,Corporate,Office Supplies,Stapler Heavy-Duty,2,24.5,36.75,0.25,7.35
+ORD-2023-1057,2023-06-20,Nikhil Bhat,East,Consumer,Office Supplies,Gel Pen Set,11,12.0,112.2,0.15,33.0
+ORD-2023-1058,2023-06-18,Siddharth Das,East,Corporate,Furniture,Desk Lamp,11,45.0,420.75,0.15,123.75
+ORD-2023-1059,2023-12-14,Ananya Iyer,Central,Small Business,Technology,Wireless Mouse,5,29.99,134.95,0.1,44.98
+ORD-2023-1060,2023-04-19,Neha Kulkarni,Central,Small Business,Technology,External SSD 1TB,8,109.99,659.94,0.25,131.99
+ORD-2023-1061,2023-04-21,Meera Sen,West,Corporate,Electronics,Headphones,9,149.0,1005.75,0.25,201.15
+ORD-2023-1062,2023-11-22,Nikhil Bhat,East,Consumer,Furniture,Bookshelf,4,120.5,457.9,0.05,168.7
+ORD-2023-1063,2023-03-18,Aarav Sharma,North,Corporate,Technology,Wireless Mouse,8,29.99,203.93,0.15,59.98
+ORD-2023-1064,2023-11-20,Tanvi Choudhury,South,Home Office,Technology,External SSD 1TB,4,109.99,417.96,0.05,153.98
+ORD-2023-1065,2023-12-03,Aarav Sharma,North,Home Office,Furniture,Executive Desk,12,450.0,4320.0,0.2,1080.0
+ORD-2023-1066,2023-08-27,Priya Patel,Central,Corporate,Electronics,Smartwatch,3,249.99,637.47,0.15,187.49
+ORD-2023-1067,2023-12-09,Meera Sen,Central,Small Business,Technology,External SSD 1TB,9,109.99,841.42,0.15,
+ORD-2023-1068,2023-03-24,Ishaan Saxena,West,Small Business,Furniture,Bookshelf,9,120.5,921.82,0.15,271.12
+ORD-2023-1069,2023-11-18,Kavya Nair,East,Home Office,Electronics,Headphones,4,149.0,536.4,0.1,178.8
+ORD-2023-1070,2023-06-22,Manish Gupta,Central,Consumer,Furniture,Executive Desk,4,450.0,1530.0,0.15,450.0
+ORD-2023-1071,2023-12-23,Vikram Singh,South,Consumer,Technology,External SSD 1TB,6,109.99,527.95,0.2,131.99
+ORD-2023-1072,2023-08-28,Neha Kulkarni,North,Corporate,Technology,External SSD 1TB,10,109.99,824.92,0.25,164.98
+ORD-2023-1073,2023-01-12,Tanvi Choudhury,West,Home Office,Electronics,Headphones,5,149.0,633.25,0.15,186.25
+ORD-2023-1074,2023-08-04,Arjun Pillai,Central,Corporate,Technology,Mechanical Keyboard,5,89.99,382.46,0.15,112.49
+ORD-2023-1075,2023-09-07,Aarav Sharma,West,Small Business,Technology,Mechanical Keyboard,8,89.99,683.92,0.05,251.97
+ORD-2023-1076,2023-11-16,Arjun Pillai,North,Home Office,Electronics,Smartphone,11,699.99,6544.91,0.15,1924.98
+ORD-2023-1077,2023-03-12,Karan Malhotra,South,Consumer,Office Supplies,Stapler Heavy-Duty,6,24.5,139.65,0.05,51.45
+ORD-2023-1078,2023-08-22,Manish Gupta,East,Home Office,Office Supplies,Stapler Heavy-Duty,5,24.5,122.5,0.0,49.0
+ORD-2023-1079,2023-08-30,Aarav Sharma,Central,Consumer,Office Supplies,Paper Ream,11,9.99,109.89,0.0,43.96
+ORD-2023-1080,2023-12-01,Priya Patel,North,Corporate,Furniture,Desk Chair,10,189.0,1795.5,0.05,661.5
+ORD-2023-1081,2023-05-04,Vikram Singh,West,Consumer,Furniture,Desk Lamp,12,45.0,486.0,0.1,162.0
+ORD-2023-1082,2023-07-09,Ananya Iyer,Central,Consumer,Furniture,Bookshelf,2,120.5,192.8,0.2,48.2
+ORD-2023-1083,2023-01-15,Pooja Rao,Central,Home Office,Technology,Mechanical Keyboard,2,89.99,143.98,0.2,35.99
+ORD-2023-1084,2023-12-21,Kavya Nair,North,Small Business,Electronics,Smartphone,6,699.99,3359.95,0.2,839.99
+ORD-2023-1085,2023-08-09,Divya Deshmukh,North,Small Business,Electronics,Smartwatch,8,249.99,1999.92,0.0,799.97
+ORD-2023-1086,2023-08-11,Divya Deshmukh,West,Corporate,Technology,Mechanical Keyboard,12,89.99,863.9,0.2,215.97
+ORD-2023-1087,2023-12-01,Aditya Joshi,Central,Home Office,Technology,External SSD 1TB,12,109.99,1055.9,0.2,263.97
+ORD-2023-1088,2023-05-19,,South,Consumer,Office Supplies,Stapler Heavy-Duty,4,24.5,83.3,0.15,24.5
+ORD-2023-1089,2023-10-20,Nikhil Bhat,West,Small Business,Electronics,Smartwatch,6,249.99,1424.94,0.05,524.98
+ORD-2023-1090,2023-09-08,Rohan Mehta,East,Small Business,Office Supplies,Gel Pen Set,10,12.0,90.0,0.25,18.0
+ORD-2023-1091,2023-05-23,Arjun Pillai,North,Corporate,Electronics,Laptop,12,1199.5,12234.9,0.15,3598.5
+ORD-2023-1092,2023-09-09,Arjun Pillai,South,Home Office,Technology,External SSD 1TB,1,109.99,109.99,0.0,44.0
+ORD-2023-1093,2023-06-01,Kavya Nair,West,Corporate,Office Supplies,Gel Pen Set,8,12.0,76.8,0.2,19.2
+ORD-2023-1094,2023-09-30,Divya Deshmukh,West,Small Business,Office Supplies,Stapler Heavy-Duty,5,24.5,110.25,0.1,36.75
+ORD-2023-1095,2023-05-10,Kavya Nair,,Corporate,Office Supplies,Binder (Pack of 5),12,18.5,177.6,0.2,44.4
+ORD-2023-1096,2023-12-21,Ananya Iyer,South,Corporate,Technology,USB-C Docking Station,12,79.5,763.2,0.2,190.8
+ORD-2023-1097,2023-09-27,Nikhil Bhat,East,Consumer,Furniture,Bookshelf,4,120.5,433.8,0.1,144.6
+ORD-2023-1098,2023-04-03,Pooja Rao,North,Corporate,Office Supplies,Binder (Pack of 5),1,18.5,14.8,0.2,3.7
+ORD-2023-1099,2023-05-31,Vikram Singh,West,Consumer,Electronics,Headphones,8,149.0,1013.2,0.15,298.0
+ORD-2023-1100,2023-08-15,Manish Gupta,South,Consumer,Office Supplies,Stapler Heavy-Duty,2,24.5,49.0,0.0,19.6
+ORD-2023-1101,2023-07-26,Ishaan Saxena,North,Consumer,Furniture,Executive Desk,10,450.0,4050.0,0.1,1350.0
+ORD-2023-1102,2023-02-14,Kavya Nair,North,Home Office,Furniture,Desk Lamp,8,45.0,306.0,0.15,90.0
+ORD-2023-1103,2023-06-03,Tanvi Choudhury,West,Small Business,Electronics,Smartphone,4,699.99,2099.97,0.25,419.99
+ORD-2023-1104,2023-04-20,Aditya Joshi,North,Corporate,Furniture,Executive Desk,9,450.0,4050.0,0.0,1620.0
+ORD-2023-1105,2023-03-23,Aarav Sharma,West,Home Office,Technology,USB-C Docking Station,1,79.5,75.52,0.05,27.82
+ORD-2023-1106,2023-05-29,Pooja Rao,West,Consumer,Furniture,Bookshelf,11,120.5,1060.4,0.2,265.1
+ORD-2023-1107,2023-12-06,Rohan Mehta,West,Consumer,Furniture,Executive Desk,5,450.0,2137.5,0.05,787.5
+ORD-2023-1108,2023-02-07,Priya Patel,South,Small Business,Office Supplies,Stapler Heavy-Duty,2,24.5,41.65,0.15,12.25
+ORD-2023-1109,2023-12-20,Pooja Rao,West,Small Business,Technology,External SSD 1TB,2,109.99,175.98,0.2,43.99
+ORD-2023-1110,2023-01-22,Neha Kulkarni,East,Small Business,Electronics,Smartphone,52,699.99,27299.61,0.25,5459.92
+ORD-2023-1111,2023-10-23,Tanvi Choudhury,North,Small Business,Electronics,Laptop,8,1199.5,7676.8,0.2,1919.2
+ORD-2023-1112,2023-12-01,Karan Malhotra,East,Corporate,Technology,External SSD 1TB,2,109.99,186.98,0.15,54.99
+ORD-2023-1113,2023-06-29,Neha Kulkarni,East,Small Business,Electronics,Laptop,6,1199.5,6117.45,0.15,1799.25
+ORD-2023-1114,2023-12-23,Ishaan Saxena,East,Home Office,Electronics,Smartwatch,2,249.99,449.98,0.1,149.99
+ORD-2023-1115,2023-05-11,Manish Gupta,North,Home Office,Electronics,Smartwatch,7,249.99,1749.93,0.0,699.97
+ORD-2023-1116,2023-04-08,Meera Sen,East,Home Office,Technology,Wireless Mouse,4,29.99,107.96,0.1,35.98
+ORD-2023-1117,2023-10-10,Vikram Singh,East,Home Office,Technology,Wireless Mouse,1,29.99,22.49,0.25,4.5
+ORD-2023-1118,2023-11-09,Kavya Nair,South,Small Business,Electronics,Smartwatch,2,249.99,474.98,0.05,174.99
+ORD-2023-1119,2023-03-01,Karan Malhotra,North,Corporate,Technology,USB-C Docking Station,9,79.5,536.62,0.25,107.32
+ORD-2023-1120,2023-05-21,Neha Kulkarni,West,Home Office,Furniture,Desk Lamp,,45.0,384.75,0.05,141.75
+ORD-2023-1121,2023-07-17,Rohan Mehta,Central,Corporate,Electronics,Headphones,7,149.0,938.7,0.1,312.9
+ORD-2023-1122,2023-09-18,Aditya Joshi,North,Small Business,Office Supplies,Stapler Heavy-Duty,3,24.5,62.48,0.15,18.38
+ORD-2023-1123,2023-10-04,Ishaan Saxena,East,Small Business,Technology,External SSD 1TB,6,109.99,626.94,0.05,230.98
+ORD-2023-1124,2023-12-25,Kavya Nair,Central,Home Office,Furniture,Desk Lamp,1,45.0,40.5,0.1,13.5
+ORD-2023-1125,2023-09-01,Siddharth Das,West,Corporate,Technology,Wireless Mouse,3,29.99,71.98,0.2,18.0
+ORD-2023-1126,2023-10-31,Manish Gupta,North,Home Office,Electronics,Smartwatch,1,249.99,187.49,0.25,37.5
+ORD-2023-1127,2023-03-16,Neha Kulkarni,South,Consumer,Technology,USB-C Docking Station,6,79.5,381.6,0.2,95.4
+ORD-2023-1128,2023-12-22,Siddharth Das,North,Small Business,Technology,USB-C Docking Station,11,79.5,655.88,0.25,131.18
+ORD-2023-1129,2023-09-08,Arjun Pillai,North,Consumer,Furniture,Bookshelf,4,120.5,361.5,0.25,72.3
+ORD-2023-1130,2023-02-17,Neha Kulkarni,North,Consumer,Technology,Mechanical Keyboard,12,89.99,971.89,0.1,323.96
+ORD-2023-1131,2023-01-16,Priya Patel,East,Consumer,Office Supplies,Gel Pen Set,6,12.0,61.2,0.15,18.0
+ORD-2023-1132,2023-03-17,Kavya Nair,Central,Home Office,Furniture,Executive Desk,3,450.0,1350.0,0.0,540.0
+ORD-2023-1133,2023-11-10,Siddharth Das,Central,Corporate,Technology,Mechanical Keyboard,4,89.99,305.97,0.15,89.99
+ORD-2023-1134,2023-11-24,Aditya Joshi,West,Small Business,Electronics,Smartwatch,5,249.99,937.46,0.25,187.49
+ORD-2023-1135,2023-10-08,Ananya Iyer,North,Home Office,Office Supplies,Gel Pen Set,11,12.0,112.2,0.15,33.0
+ORD-2023-1136,2023-12-21,Aditya Joshi,West,Small Business,Furniture,Desk Lamp,8,45.0,360.0,0.0,144.0
+ORD-2023-1137,2023-05-03,Siddharth Das,Central,Small Business,Office Supplies,Gel Pen Set,1,12.0,9.0,0.25,1.8
+ORD-2023-1138,2023-07-23,Aditya Joshi,North,Consumer,Technology,USB-C Docking Station,4,79.5,254.4,0.2,63.6
+ORD-2023-1139,2023-07-01,Kavya Nair,South,Small Business,Furniture,Desk Chair,11,189.0,1559.25,0.25,311.85
+ORD-2023-1140,2023-01-22,Pooja Rao,West,Consumer,Office Supplies,Paper Ream,2,9.99,17.98,0.1,5.99
+ORD-2023-1141,2023-06-18,Neha Kulkarni,South,Corporate,Furniture,Bookshelf,9,120.5,867.6,0.2,216.9
+ORD-2023-1142,2023-05-21,Ananya Iyer,East,Home Office,Office Supplies,Gel Pen Set,2,12.0,20.4,,6.0
+ORD-2023-1143,2023-02-09,Vikram Singh,South,Home Office,Office Supplies,Binder (Pack of 5),7,18.5,129.5,0.0,51.8
+ORD-2023-1144,2023-05-17,Arjun Pillai,North,Home Office,Office Supplies,Gel Pen Set,10,12.0,102.0,0.15,30.0
+ORD-2023-1145,2023-11-24,Divya Deshmukh,North,Corporate,Technology,Wireless Mouse,10,29.99,239.92,0.2,59.98
+ORD-2023-1146,2023-06-18,Nikhil Bhat,South,Consumer,Technology,USB-C Docking Station,11,79.5,743.32,0.15,218.62
+ORD-2023-1147,2023-03-02,Vikram Singh,North,Consumer,Office Supplies,Stapler Heavy-Duty,2,24.5,49.0,0.0,19.6
+ORD-2023-1148,2023-05-02,Arjun Pillai,South,Home Office,Technology,USB-C Docking Station,11,79.5,655.88,0.25,131.18
+ORD-2023-1149,2023-12-24,Arjun Pillai,West,Corporate,Technology,Wireless Mouse,8,29.99,191.94,0.2,47.99
+ORD-2023-1150,2023-07-29,Aditya Joshi,North,Small Business,Furniture,Desk Lamp,8,45.0,342.0,0.05,126.0
+ORD-2023-1151,2023-07-06,Sneha Reddy,East,Small Business,Electronics,Smartwatch,5,249.99,1187.45,0.05,437.48
+ORD-2023-1152,2023-03-05,Karan Malhotra,North,Corporate,Electronics,Smartphone,6,699.99,3989.94,0.05,1469.98
+ORD-2023-1153,2023-03-07,Tanvi Choudhury,South,Consumer,Furniture,Executive Desk,4,450.0,1620.0,0.1,540.0
+ORD-2023-1154,2023-03-18,Nikhil Bhat,North,Small Business,Furniture,Executive Desk,9,450.0,3645.0,0.1,1215.0
+ORD-2023-1155,2023-04-01,Sneha Reddy,North,Corporate,Electronics,Headphones,4,149.0,476.8,0.2,
+ORD-2023-1156,2023-06-16,Aarav Sharma,South,Small Business,Electronics,Laptop,12,1199.5,12234.9,0.15,3598.5
+ORD-2023-1157,2023-09-28,Sneha Reddy,North,Home Office,Technology,USB-C Docking Station,9,79.5,572.4,0.2,143.1
+ORD-2023-1158,2023-02-26,Karan Malhotra,Central,Corporate,Electronics,Headphones,8,149.0,894.0,0.25,178.8
+ORD-2023-1159,2023-01-17,Priya Patel,West,Home Office,Technology,Wireless Mouse,8,29.99,179.94,0.25,35.99
+ORD-2023-1160,2023-08-17,Rahul Verma,North,Small Business,Furniture,Desk Chair,3,189.0,510.3,0.1,170.1
+ORD-2023-1161,2023-11-17,Tanvi Choudhury,Central,Small Business,Technology,USB-C Docking Station,8,79.5,508.8,0.2,127.2
+ORD-2023-1162,2023-11-07,Neha Kulkarni,North,Consumer,Furniture,Desk Lamp,8,45.0,342.0,0.05,126.0
+ORD-2023-1163,2023-08-01,Manish Gupta,West,Home Office,Technology,Wireless Mouse,6,29.99,152.95,0.15,44.99
+ORD-2023-1164,2023-06-11,Aditya Joshi,East,Corporate,Technology,Wireless Mouse,2,29.99,59.98,0.0,23.99
+ORD-2023-1165,2023-02-18,Neha Kulkarni,North,Small Business,Furniture,Desk Chair,10,189.0,1512.0,0.2,378.0
+ORD-2023-1166,2023-10-16,Manish Gupta,North,Home Office,Office Supplies,Stapler Heavy-Duty,12,24.5,294.0,0.0,117.6
+ORD-2023-1167,2023-05-29,Nikhil Bhat,East,Small Business,Electronics,Laptop,3,1199.5,2698.88,0.25,539.78
+ORD-2023-1168,2023-09-05,Kavya Nair,North,Small Business,Office Supplies,Binder (Pack of 5),5,18.5,74.0,0.2,18.5
+ORD-2023-1169,2023-04-27,Neha Kulkarni,Central,Consumer,Office Supplies,Binder (Pack of 5),3,18.5,49.95,0.1,16.65
+ORD-2023-1170,2023-12-27,Pooja Rao,East,Small Business,Electronics,Laptop,3,1199.5,2878.8,0.2,719.7
+ORD-2023-1171,2023-12-04,Siddharth Das,North,Corporate,Electronics,Smartphone,12,699.99,6719.9,0.2,1679.97
+ORD-2023-1172,2023-04-22,Siddharth Das,West,Home Office,Office Supplies,Paper Ream,6,9.99,53.95,0.1,17.99
+ORD-2023-1173,2023-06-17,Tanvi Choudhury,Central,Consumer,Electronics,Laptop,3,1199.5,2878.8,0.2,719.7
+ORD-2023-1174,2023-01-27,Rahul Verma,East,Home Office,Technology,External SSD 1TB,10,109.99,934.91,0.15,274.97
+ORD-2023-1175,2023-08-02,Aditya Joshi,South,Consumer,Office Supplies,Stapler Heavy-Duty,2,24.5,44.1,0.1,14.7
+ORD-2023-1176,2023-12-15,Tanvi Choudhury,West,Small Business,Electronics,Laptop,7,1199.5,6717.2,0.2,1679.3
+ORD-2023-1177,2023-01-30,Aarav Sharma,South,Small Business,Furniture,Executive Desk,5,450.0,2025.0,0.1,675.0
+ORD-2023-1178,2023-06-18,Sneha Reddy,North,Home Office,Technology,Mechanical Keyboard,3,89.99,229.47,0.15,67.49
+ORD-2023-1179,2023-10-01,Kavya Nair,Central,Small Business,Electronics,Smartwatch,12,249.99,2999.88,0.0,1199.95
+ORD-2023-1180,2023-08-13,Aarav Sharma,West,Consumer,Office Supplies,Stapler Heavy-Duty,10,24.5,208.25,0.15,61.25
+ORD-2023-1181,2023-11-25,Neha Kulkarni,East,Consumer,Technology,Wireless Mouse,6,29.99,170.94,0.05,62.98
+ORD-2023-1182,2023-11-14,Karan Malhotra,East,Consumer,Technology,Wireless Mouse,4,29.99,101.97,0.15,29.99
+ORD-2023-1183,2023-10-30,Siddharth Das,Central,Consumer,Technology,USB-C Docking Station,12,79.5,858.6,0.1,286.2
+ORD-2023-1184,2023-04-25,Manish Gupta,South,Consumer,Electronics,Laptop,6,1199.5,6477.3,0.1,2159.1
+ORD-2023-1185,2023-11-28,Vikram Singh,South,Consumer,Furniture,Bookshelf,4,120.5,457.9,0.05,168.7
+ORD-2023-1186,2023-11-06,Vikram Singh,North,Corporate,Technology,External SSD 1TB,10,109.99,879.92,0.2,219.98
+ORD-2023-1187,2023-08-19,Tanvi Choudhury,Central,Small Business,Office Supplies,Paper Ream,8,9.99,79.92,0.0,31.97
+ORD-2023-1188,2023-08-30,Karan Malhotra,East,Small Business,Electronics,Headphones,9,149.0,1341.0,0.0,536.4
+ORD-2023-1189,2023-06-09,Karan Malhotra,West,Consumer,Electronics,Headphones,5,149.0,745.0,0.0,
+ORD-2023-1190,2023-11-28,Rahul Verma,Central,Home Office,Technology,Wireless Mouse,8,29.99,191.94,0.2,47.99
+ORD-2023-1191,2023-12-01,Rohan Mehta,East,Home Office,Furniture,Desk Chair,8,189.0,1512.0,0.0,604.8
+ORD-2023-1192,2023-06-26,Rahul Verma,Central,Corporate,Electronics,Laptop,12,1199.5,12234.9,0.15,3598.5
+ORD-2023-1193,2023-08-14,Meera Sen,Central,Corporate,Office Supplies,Gel Pen Set,5,12.0,51.0,0.15,15.0
+ORD-2023-1194,2023-07-30,Manish Gupta,Central,Consumer,Office Supplies,Binder (Pack of 5),6,18.5,111.0,0.0,44.4
+ORD-2023-1195,2023-10-14,Siddharth Das,East,Small Business,Furniture,Bookshelf,2,120.5,192.8,0.2,48.2
+ORD-2023-1196,2023-12-07,Vikram Singh,East,Small Business,Technology,Mechanical Keyboard,10,89.99,674.92,0.25,134.98
+ORD-2023-1197,2023-02-14,Pooja Rao,Central,Home Office,Office Supplies,Paper Ream,11,9.99,82.42,0.25,16.49
+ORD-2023-1198,2023-12-18,Meera Sen,North,Home Office,Office Supplies,Binder (Pack of 5),6,18.5,99.9,0.1,33.3
+ORD-2023-1199,2023-04-04,Rohan Mehta,East,Home Office,Furniture,Executive Desk,3,450.0,1282.5,0.05,472.5
+ORD-2023-1200,2023-02-10,Pooja Rao,North,Consumer,Office Supplies,Paper Ream,10,9.99,84.92,0.15,24.98
+ORD-2023-1006,2023-11-07,Aditya Joshi,North,Home Office,Electronics,Smartwatch,2,249.99,399.98,0.2,99.99
+ORD-2023-1021,2023-07-06,Pooja Rao,South,Consumer,Furniture,Desk Chair,2,189.0,283.5,0.25,56.7
+ORD-2023-1076,2023-11-16,Arjun Pillai,North,Home Office,Electronics,Smartphone,11,699.99,6544.91,0.15,1924.98
+ORD-2023-1131,2023-01-16,Priya Patel,East,Consumer,Office Supplies,Gel Pen Set,6,12.0,61.2,0.15,18.0
