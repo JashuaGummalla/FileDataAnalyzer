@@ -551,3 +551,68 @@ class Visualizer:
         ax.set_ylabel("Column Name", color="#334155")
         plt.tight_layout()
         return fig, True
+
+    @classmethod
+    def plot_column_distribution_donut(cls, meta: dict) -> plt.Figure:
+        """Plots a donut chart representing the distribution of column types."""
+        type_counts = {}
+        num_len = len(meta.get("numerical_cols", []))
+        cat_len = len(meta.get("categorical_cols", []))
+        date_len = len(meta.get("datetime_cols", []))
+        
+        if num_len > 0:
+            type_counts["Numerical"] = num_len
+        if cat_len > 0:
+            type_counts["Categorical"] = cat_len
+        if date_len > 0:
+            type_counts["DateTime"] = date_len
+
+        # Any others
+        total_cols = meta.get("columns", 0)
+        accounted = num_len + cat_len + date_len
+        if total_cols > accounted:
+            type_counts["Other"] = total_cols - accounted
+
+        if not type_counts:
+            type_counts["No Columns"] = 1
+
+        fig, ax = cls._create_figure(figsize=(6.5, 4.2))
+        labels = list(type_counts.keys())
+        sizes = list(type_counts.values())
+        
+        color_map = {
+            "Numerical": "#0284c7",
+            "Categorical": "#38bdf8",
+            "DateTime": "#818cf8",
+            "Other": "#94a3b8",
+            "No Columns": "#cbd5e1"
+        }
+        colors = [color_map.get(k, "#0284c7") for k in labels]
+
+        wedges, texts, autotexts = ax.pie(
+            sizes,
+            labels=labels,
+            autopct="%1.0f%%",
+            startangle=140,
+            colors=colors,
+            pctdistance=0.76,
+            wedgeprops={"edgecolor": "#ffffff", "linewidth": 2.0, "antialiased": True}
+        )
+
+        for t in texts:
+            t.set_fontsize(9)
+            t.set_color("#1e293b")
+            t.set_weight("600")
+        for at in autotexts:
+            at.set_fontsize(8.5)
+            at.set_weight("bold")
+            at.set_color("#0f172a")
+
+        centre_circle = plt.Circle((0, 0), 0.58, fc="#ffffff", edgecolor="#e2e8f0", linewidth=1.2)
+        ax.add_artist(centre_circle)
+        ax.text(0, 0, f"{total_cols}\nColumns", ha="center", va="center", fontsize=10.5, fontweight="bold", color="#0f172a")
+
+        ax.set_title("Column Type Taxonomy Distribution", pad=12, color="#0f172a", fontsize=11.5)
+        plt.tight_layout()
+        return fig
+
